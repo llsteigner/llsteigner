@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Student at Tulane University majoring in Computer Science and Philosophy. Roll Wave!
+
 <!--
 **llsteigner/llsteigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
