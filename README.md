@@ -1,6 +1,6 @@
-### Hi there 👋
+### Salvete!
 
-Student at Tulane University studying Computer Science and Philosophy. Roll Wave!
+Student at Tulane University. I study Computer Science, Classics, and Linguistic Anthropology. Roll Wave!
 
 <!--
 **llsteigner/llsteigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
