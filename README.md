@@ -1,6 +1,6 @@
-### Salvete!
+### Salvete, amici!
 
-Student at Tulane University. I study Computer Science, Classics, and Linguistic Anthropology. Roll Wave! :ocean: :classical_building: :desktop_computer: 	
+Student at Tulane University, class of 2026. I study Computer Science, Classics, and Linguistic Anthropology. Roll Wave! :ocean::classical_building::desktop_computer:
 
 <!--
 **llsteigner/llsteigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
